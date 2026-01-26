@@ -57,7 +57,7 @@ MaxPooling layers are replaced with **AvgPooling** to improve gradient smoothnes
 
 ---
 
-## 🎨 Neural Style Transfer Result
+## Neural Style Transfer Result
 
 ### Content Image
 ![Content Image](content-1.jpg)
